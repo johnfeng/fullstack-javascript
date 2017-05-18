@@ -34,6 +34,8 @@ server.listen(port, hostname, function(){
 
 `node server-1`
 
+`npm install morgan --save`
+
 ## Project template
 
 https://github.com/bhajian/express-togo
